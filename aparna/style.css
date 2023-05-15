@@ -1,0 +1,35 @@
+.banner
+{
+    height: 80vh;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(images/background.jpeg);
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+}
+.company-details
+{
+    box-shadow: 0 2px 70px 0 rgba(110,130,208, .18);
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.job-updates
+{
+    background: #fff;
+    padding: 10px 20px;
+    border-radius:5px;
+}
+.job-updates .fa
+{
+    margin-top: 5px;
+    margin-right: 10px;
+    color: #77d1b1;
+}
+.page-link li
+{
+height: 25px;
+width: 25px;
+list-style: none;
+display: inline-block;
+cursor: pointer;
+
+}

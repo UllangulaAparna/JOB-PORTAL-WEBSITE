@@ -1,0 +1,138 @@
+<html>
+    <head>
+        <title>
+            JOB PORTAL WEBSITE
+        </title>
+        <link rel="stylesheet"
+href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
+<meta name="viewpot" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="style.css">
+
+<link rel="stylesheet"
+
+href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/
+bootstrap.min.css">
+
+<script src="https://code.jquery.com/jquery-
+3.3.1.slim.min.js"></script> <script
+
+src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bo otstrap.min.js" integrity="sha384-
+BOUglyR+jN6CkvvICOB2joaf51413gm9GU6Hc1og6Ls7i6U/mkkaduKaBhLAX
+v9k" crossorigin="anonymous"></script>
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+<script
+src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/fontawesome.min.css">
+    </head>
+    <body background-color="image/background">
+        <div class="container fluid">
+            <div class="row">
+                <div class="col-md-12">
+                    <nav class="navbar navbar-expand navbar-dark bg-dark">
+                        <div class="container-fluid">
+                          <a class="navbar-brand" href="#"><img src=https://th.bing.com/th?id=OIP.oOGiPJSba1njbxb7Hi2gXQHaHa&w=50&h=50&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2></a>
+                          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                          </button>
+                          <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                            <div class="navbar-nav">
+                              <a class="nav-link" href="#">All jobs</a>
+                              <a class="nav-link" href="#">Companies</a>
+                              <a class="nav-link" href="#">Walkin</a>
+                              <a class="nav-link" href="#">Govt Jobs</a>
+                              <a class="nav-link" href="#">Internships</a>
+                            </div>
+                          </div>
+                        </div>
+                      </nav>
+                </div>
+            </div>
+            <div class="container fluid">
+              <div class="banner text-center">
+                <h1>JOBS AROUND YOU</h1>
+                <p>Find Jobs</p>
+              </div>
+            </div>
+            <p>
+              <select class="form-select" aria-label="Default select example">
+                <option selected>Search job Type</option>
+                <option value="1">IT JOBS</option>
+                <option value="2">GOVT JOBS</option>
+                <option value="3">INTERNSHIPS</option>
+                <option value="4">MARKET RESEARCH ANALYST</option>
+                <option value="5">DENTIST</option>
+                <option value="6">FINANCIAL MANAGEMENT</option>
+                </select>
+                <select class="form-select" aria-label="Default select example">
+                  <option selected>COMPANY</option>
+                  <option value="1">INFOSYS</option>
+                  <option value="2">DELL</option>
+                  <option value="3">BYJU'S</option>
+                  <option value="4">CISCO</option>
+                  <option value="5">HERO</option>
+                  <option value="6">FEDEX</option>
+                  <option value="7">ADOBE</option>
+              </select>
+              <select class="form-select" aria-label="Default select example">
+                <option selected>LOCATIONS</option>
+                <option value="1">CHENNAI</option>
+                <option value="2">BANGLORE</option>
+                <option value="3">TIRUPATI</option>
+                <option value="4">HYDERABAD</option>
+                <option value="5">PUNE</option>
+                <option value="6">AHMEDABAD</option>
+                <option value="7">VISHAKAPATNAM</option>
+            </select>
+            </p>
+            <div class="container text-center">
+              <h3>TOP RECRUITERS</h3>
+              <div>
+                <img src="images/company logos-1.jpeg">
+              </div>
+            </div>
+            <div class="container">
+              <h5>RECENT UPDATES</h5>
+              <div class="company-details">
+                <div class="job-updates">
+                  <h4><b>Seasoned Senior Python Developer (Fresher)</b></h4>
+                  <p>Tata Consultancy Service</p>
+                  <i class="fa fa-briefcase"></i><span>0-1 yrs</span><br>
+                  <i class="fa fa-inr"></i><span>3.50 - 4.00 Lacs p . a.</span><br>
+                  <i class="fa fa-map-marker"></i><span>Bangalore</span>
+                  <p>Skills <i class="fa fa-angle-doubt-right"></i><small>java</small><small>python</small><small>HTML,CSS</small><small>.Net</small></p><p>Description<i class="fa angle-double-right"></i>To Know about this position.<a href="#">Read more</a></p>
+                </div>
+                <div class="apply-btn">
+                  <button type="button" class="btn btn-primary">Apply</button>
+                </div>
+                <h4><b>Management</b></h4>
+                <p>Chennai Amritha</p>
+                <i class="fa fa-briefcase"></i><span>0-1 yrs</span><br>
+                <i class="fa fa-inr"></i><span>7.00 - 8.00 Lacs p . a.</span><br>
+                <i class="fa fa-map-marker"></i><span>Chennai</span>
+                <p>Skills <i class="fa fa-angle-doubt-right"></i><small>Good Communication</small><small>Written and Verbal</small><small>Leadership</small><small>Planning</small></p><p>Description<i class="fa angle-double-right"></i>To Know about this position.<a href="#">Read more</a></p>
+              </div>
+              <div class="apply-btn">
+                <button type="button" class="btn btn-primary">Apply</button>
+              </div>
+              <h4><b>Software Developer(Fresher)</b></h4>
+              <p>Red Hat Solution Pvt Ltd</p>
+              <i class="fa fa-briefcase"></i><span>2-3 yrs</span><br>
+              <i class="fa fa-inr"></i><span>9.50 - 10.00 Lacs p . a.</span><br>
+              <i class="fa fa-map-marker"></i><span>Canada</span>
+              <p>Skills <i class="fa fa-angle-doubt-right"></i><small>My SQL</small><small>python</small><small>HTML,CSS</small><small>.Net</small></p><p>Description<i class="fa angle-double-right"></i>To Know about this position.<a href="#">Read more</a></p>
+            </div>
+            <div class="apply-btn">
+              <button type="button" class="btn btn-primary">Apply</button>
+            </div>
+          <ul class="page-link text-center">
+            <li class="left-arrow">&#8592;</li>
+              <li>1</li>
+              <li>2</li>
+              <li>3</li>
+              <li>4</li>
+              <li class="right-arrow">&#8594;</li>
+          </ul>            </div>
+            </div>
+          </body>
+</html>
